@@ -1,0 +1,14 @@
+websocket
+urllib3==1.24
+xlrd
+jsonpath
+pytest==5.0.0
+allure-pytest==2.8.6
+requests==2.21.0
+pymysql==0.9.3
+beautifulsoup4
+pyDes==2.0.1
+pycryptodome
+poium==0.5.1
+selenium==3.141.0
+python-jenkins
